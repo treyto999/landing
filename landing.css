@@ -1,0 +1,27 @@
+*{
+    background-color: #fae;
+    margin: 0;
+    font-size: 16px;
+    font-family:'Times New Roman';
+    text-align: center;
+}
+h1{
+    background-color: #5ba;
+    padding-top: 16px;
+    margin: 32px;
+    font-size: 64px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    background-color: #4b3;
+    padding-top: 16px;
+    margin: 32px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+p{
+    padding-top: 16px;
+    margin: 32px;
+}
